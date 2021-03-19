@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AndrewCodingExerciseWeb", "AndrewCodingExerciseWeb\AndrewCodingExerciseWeb.csproj", "{411630AC-88A7-4775-90BE-4F8AEA3EA484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AndrewCodingExerciseWebApi", "AndrewCodingExerciseWeb\AndrewCodingExerciseWebApi.csproj", "{411630AC-88A7-4775-90BE-4F8AEA3EA484}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andrew.Context", "Andrew.Context\Andrew.Context.csproj", "{A594FFBF-59C3-45D9-B935-C64B1557F052}"
 EndProject
@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andrew.UnitOfWork", "Andrew
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andrew.DataModels", "Andrew.DataModels\Andrew.DataModels.csproj", "{22421406-F777-496F-8061-150B59AE454A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndrewCodingExercise.Test", "AndrewCodingExercise.Test\AndrewCodingExercise.Test.csproj", "{4B49468C-FDEC-421F-B0AB-6A97433E2A21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AndrewCodingExercise.Test", "AndrewCodingExercise.Test\AndrewCodingExercise.Test.csproj", "{4B49468C-FDEC-421F-B0AB-6A97433E2A21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -10,7 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Swashbuckle.Swagger;
 
-namespace AndrewCodingExerciseWeb
+namespace AndrewCodingExerciseWebApi
 {
     public class Startup
     {

@@ -1,6 +1,6 @@
 using Andrew.Models;
 using Andrew.Services.Intrefaces;
-using AndrewCodingExerciseWeb.Controllers;
+using AndrewCodingExerciseWebApi.Controllers;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using Xunit;

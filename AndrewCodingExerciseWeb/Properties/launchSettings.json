@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "AndrewCodingExerciseWeb": {
+    "AndrewCodingExerciseWebApi": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
